@@ -18,6 +18,7 @@ CREATE ML_ENGINE rayserve FROM ray_serve;
 ![test_1](assets/screenshot1.png)
 
 -----
+### 2. This creates example_db database:. 
 ```
 CREATE DATABASE example_db
 WITH ENGINE = "postgres",
