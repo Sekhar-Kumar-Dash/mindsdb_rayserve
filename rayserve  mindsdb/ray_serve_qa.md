@@ -32,7 +32,7 @@ predict_url='http://ray_serve_url:port/my_model/predict';
    
 
 ```
-**Screeshot Result: Query Failed**
+**Screeshot Result: Query Passed**
 
 ![test_2](assets/screenshot2.png)
 
@@ -48,7 +48,7 @@ WHERE input_col=some_value; -- could also use a JOIN here, as usual
 DESCRIBE rayserve_model;
 
 ```
-**Screeshot Result: Query Failed**
+**Screeshot Result: Query passed**
 
 ![test_3](assets/screenshot3.png)
 
